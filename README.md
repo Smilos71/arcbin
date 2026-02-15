@@ -8,6 +8,6 @@
 - [Drivers](./archive/drivers)
 - [Other Software](./archive/other)
 ## 🔍 Search
-[![](https://img.shields.io/badge/Click_here_to_search-000000?style=for-the-badge)](TVŮJ_LINK)
+[![](https://img.shields.io/badge/Click_here_to_search-000000?style=for-the-badge)](./archive)
 ## 📜 Legal Notice
 - This archive is for educational and preservation purposes only. If you are a copyright holder and wish to have your software removed, please open an Issue in this repository.
